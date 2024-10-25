@@ -62,7 +62,41 @@
 - ![File Converters Online](https://file-converters-online.com/img/32x32.webp) [**File Converters Online**](https://file-converters-online.com/)
   Convert various file formats quickly and easily with a wide range of supported types. Essential for businesses, freelancers, and anyone who needs to convert files for different applications.
 
+# Marketing Tools
 
+### 📷 QR Code Generator Online
+Easily create QR codes for a variety of purposes—from links and contact information to coupons and Wi-Fi access. Perfect for marketers and business owners looking to streamline information sharing.
+
+[https://qr-generator-online.com](https://qr-generator-online.com)
+
+### 📊 UTM Tag Generator Online
+Create UTM tags to track the performance of your marketing campaigns. Essential for marketers and analysts seeking accurate traffic and conversion data.
+
+[https://utm-generator-online.com](https://utm-generator-online.com)
+
+### 🕵️‍♂️📂💻 File Detector Online
+Quickly identify file types online in seconds. Just upload a document or image, and the system will automatically recognize its format.
+
+[https://file-detector-online.com](https://file-detector-online.com)
+
+### 🛠📘 mcgrp.ru (Russian version) and mans.io (English version)
+An extensive online resource for operating manuals covering household, computer equipment, and electronics. Access a vast database of guides, diagrams, and explanatory videos. Users can also participate in forums, ask questions, and download materials for free without registration.
+
+[https://mcgrp.ru](https://mcgrp.ru) | [https://mans.io](https://mans.io)
+
+---
+
+# Tools for Developers
+
+### 🔍 Text Diff Online
+Quickly compare texts online! Easily find differences between two documents and save the result in a convenient format. A simple, user-friendly, and free tool for text comparison.
+
+[https://text-diff-online.com](https://text-diff-online.com)
+
+### 🔤 Case Converter Online
+Instantly convert text case! Change from uppercase to lowercase, make all letters capital, or convert everything to sentence case with ease. A handy tool for text editing.
+
+[https://case-converter-online.com](https://case-converter-online.com)
 
 
 
